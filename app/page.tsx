@@ -1,0 +1,1 @@
+export default function Page(){return <main><h1>Scooter Club Kalsdorf</h1><p>Premium Scaffold</p></main>}
